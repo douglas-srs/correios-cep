@@ -1,4 +1,5 @@
 <?php
+include_once("phpQuery-onefile.php");
 class Correios {
 
 	static public function frete($dados)
